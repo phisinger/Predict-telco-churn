@@ -9,3 +9,5 @@ https://www.kaggle.com/blastchar/telco-customer-churn
 Predict whether telco customers will leave the company.
 
 ## Structure
+
+- [Data understanding and preparation notebook](/blob/master/notebooks/1-data_understanding_prerparation.ipynb)
